@@ -1,0 +1,14 @@
+body{
+    background-color: #25D366;
+    color: #ffff;
+    font-family: Helvetica;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.audio{
+    box-sizing: border-box;
+    padding: 1%;
+}
